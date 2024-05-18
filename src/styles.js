@@ -8,7 +8,7 @@ export const Container = styled.div`
   /* background-color: #fff; */
 
   canvas {
-    border: 2px solid #ff0000;
+    border: 4px solid #ff0000;
     background: linear-gradient(-90deg, #1b1b1b, #323232);
     /* background-color: #323232; */
     /* background-color: #1b1b1b; */
